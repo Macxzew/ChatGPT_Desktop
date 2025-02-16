@@ -1,8 +1,8 @@
-<h1 align="center">ChatGPT_Desktop <img src="assets/app-icon.png" width="40px"></h1>
+<h1 align="center">ChatGPT_Desktop <img src="assets/app-icon.png" width="30px"></h1>
 
 > 🖥️ ChatGPT_Desktop est une application de bureau conçue pour offrir une expérience optimisée de ChatGPT.
 
-<img alt="ChatGPT" src="assets/app-icon.png"/>
+<img alt="ChatGPT" src="assets/desktop.png"/>
 
 
 ## 🚀 Usage

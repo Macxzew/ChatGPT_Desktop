@@ -1,51 +1,51 @@
-<h1 align="center">ChatGPT_Desktop <img src="assets/app-icon.png" width="30px"></h1>
+<h1 align="center">ChatGPT_Desktop <img src="assets/app-icon.png" width="20px"></h1>
 
-> 🖥️ ChatGPT_Desktop est une application de bureau conçue pour offrir une expérience optimisée de ChatGPT.
+> 🖥️ ChatGPT_Desktop is a desktop application designed to provide an optimized ChatGPT experience.
 
 <img alt="ChatGPT" src="assets/desktop.png"/>
 
 
 ## 🚀 Usage
 
-Pour utiliser ce projet, suivez les étapes ci-dessous dans votre terminal préféré.
+To use this project, follow the steps below in your preferred terminal.
 
-### 1️⃣ Installation des Dépendances
+### 1️⃣ Installing Dependencies
 
-Avant toute chose, installez les dépendances nécessaires :
+Before anything else, install the necessary dependencies:
 
 ```shell
 npm install
 ```
 
-Note: Cette étape est obligatoire avant de construire ou d'exécuter l'application `npm start`.
+Note: This step is mandatory before building or running the application with `npm start`.
 
-### 2️⃣ Construction et Exécution
+### 2️⃣ Build and Run
 
 #### 🔹 Windows
 
-1. Exécutez la commande suivante pour construire le dossier `ChatGPT-win32-x64/` :
+1. Run the following command to build the `ChatGPT-win32-x64/` folder :
 
 ```
 npm run build-win
 ```
 
-2. Vous pourrez exécuter l'application en lançant `ChatGPT.exe` à l'intérieur de ce dossier.
+2. You can then launch the application by running `ChatGPT.exe` inside this folder.
 
 #### 🔹 MAC
 
-1. Exécutez la commande suivante pour construire le dossier `ChatGPT-darwin-x64/` :
+1. Run the following command to build the `ChatGPT-darwin-x64/` folder:
 
 ```shell
 npm run build-mac
 ```
 
-2. Copiez l'application dans `/Applications/` pour qu'elle apparaisse dans le Launchpad :
+2. Copy the application to `/Applications/` so that it appears in the Launchpad:
 
 ```shell
 sudo cp -R ChatGPT-darwin-x64/ChatGPT.app /Applications/
 ```
 
-3. Vous pourrez ensuite exécuter `ChatGPT` directement depuis le Launchpad.
+3. You can then run  `ChatGPT` directly from the Launchpad.
 
 
 ## 👤 Author
